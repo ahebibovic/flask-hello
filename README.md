@@ -1,2 +1,4 @@
 # flask-hello
-Simple flask server listening at port 5000 and responding with hello message.
+Simple flask server listening at port 5000 and responding with hello message. 
+
+FOR DEBUGGING PURPOSES ONLY
